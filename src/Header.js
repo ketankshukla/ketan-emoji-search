@@ -1,5 +1,5 @@
-import React, { PureComponent } from "react";
-import "./Header.css";
+import React, { PureComponent } from 'react';
+import './Header.css';
 
 class Header extends PureComponent {
   render() {
@@ -11,7 +11,7 @@ class Header extends PureComponent {
           height="32"
           alt=""
         />
-        Emoji Search
+        Ketan's Emoji Search
         <img
           src="//cdn.jsdelivr.net/emojione/assets/png/1f63a.png"
           width="32"
