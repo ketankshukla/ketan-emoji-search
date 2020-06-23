@@ -1,5 +1,5 @@
 {
-  "name": "emoji-search",
+  "name": "ketans-emoji-search",
   "version": "0.1.0",
   "license": "MIT",
   "homepage": "http://ketan-emoji-search.herokuapp.com",
@@ -9,7 +9,7 @@
     "react-scripts": "^1.0.17"
   },
   "dependencies": {
-    "clipboard": "^2.0.1",
+    "clipboard": "^1.7.1",
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
@@ -20,5 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
-  }
+  },
+  "keywords": [],
+  "description": "Simple emoji search"
 }
